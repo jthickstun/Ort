@@ -1,4 +1,4 @@
-!!!COA:	de Orto, Marbrianus
+!!!COM:	de Orto, Marbrianus
 !!!CDT:	~1460///-1529///
 !!!OTL:	Credo &agrave; 5
 !!!AGN:	Mass section; Credo
@@ -8,7 +8,7 @@
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
-*I"Bassus	*	*I"Tenor[2]	*	*I"Tenor[1]	*	*I"[Altus]	*	*I"[Superius]	*
+*I"Bassus	*	*I"Tenor2	*	*I"Tenor1	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'T	*	*I'A	*	*I'S	*
 *>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
@@ -17,6 +17,8 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!incipit: 6
+!!section: Patrem
+!!!OMD: Patrem
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0d	Pa-	0r	.	0r	.	0r	.	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -521,6 +523,8 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et incarnatus est
+!!!OMD: Et incarnatus est
 0G	Et	1.d	Et	0r	.	0r	.	0r	.
 .	.	4c\	.	.	.	.	.	.	.
 .	.	4B-\	.	.	.	.	.	.	.
@@ -625,6 +629,8 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Crucifixus
+!!!OMD: Crucifixus
 0r	.	0r	.	0r	.	0A	Cru-	0r	.
 =121	=121	=121	=121	=121	=121	=121	=121	=121	=121
 0C	Cru-	0r	.	0r	.	1G	-ci-	0r	.
@@ -747,7 +753,7 @@
 2c\	.	.	.	.	.	2e-i\	.	.	.
 2B-\	.	1r	.	.	.	2.d\	.	.	.
 4A\	.	.	.	.	.	.	.	.	.
-4G\	.	.	.	.	.	4e\	.	.	.
+4G\	.	.	.	.	.	4eni\	.	.	.
 =146	=146	=146	=146	=146	=146	=146	=146	=146	=146
 2F\	.	2c\	Et	1a	-ti-	1f	-xit	0r	.
 2D\	.	2d\	re-	.	.	.	.	.	.
@@ -989,6 +995,8 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et in spiritum
+!!!OMD: Et in spiritum
 0r	.	0r	.	0r	.	0g	Et	0r	.
 =190	=190	=190	=190	=190	=190	=190	=190	=190	=190
 0r	.	0d	Et	0r	.	0d	in	0r	.
@@ -1442,4 +1450,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/08/13/
 !!!ONB:	Translated from MusicXML and edited on 2012/08/13/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v85,85,85,85,100Q8c120

@@ -1,6 +1,6 @@
-!!!COA:	de Orto, Marbrianus
+!!!COM:	de Orto, Marbrianus
 !!!CDT:	~1460///-1529///
-!!!OTL:	Ave Maria gratia plena
+!!!OTL:	Ave Maria mater gratie
 !!!AGN:	Motet
 !!!SCT:	Ort2002
 !!!SCA:	Ort2002
@@ -8,7 +8,7 @@
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
-*I"Bassus	*	*I"Contratenor	*	*I"Tenor	*	*I"[Contratenor 2] 	*	*I"[Superius]	*
+*I"Bassus	*	*I"Contratenor	*	*I"Tenor	*	*I"Contratenor2 	*	*I"Superius	*
 *I'B	*	*I'Ct	*	*I'T	*	*I'Ct2	*	*I'S	*
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
@@ -302,7 +302,7 @@
 .	.	4C/	.	.	.	.	.	.	.
 .	.	1AA	-sa,	2.c\	ho-	2r	co-	.	.
 .	.	.	.	.	.	2A/	.	.	.
-.	.	.	.	8B/L	.	.	.	.	.
+.	.	.	.	8B-i/L	.	.	.	.	.
 .	.	.	.	8A/J	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 0.r	.	0.r	.	2G/	.	2B\	-men-	0.r	.
@@ -908,4 +908,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/08/12/
 !!!ONB:	Translated from MusicXML and edited on 2012/08/12/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v85,85,85,85,100Q8c105
