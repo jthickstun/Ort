@@ -101,11 +101,11 @@
 4D\	.	.	.	4d\	.	.	.
 [2E-i\	.	.	.	2B-\	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
-2E-\]	.	1F	-voye	2c\	.	0r	.
+2E-i\]	.	1F	-voye	2c\	.	0r	.
 2D\	.	.	.	2d\	.	.	.
 1E-i	-re.	[1B-	sur	1G	-re.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19
-0F	Je	2B-\]	.	1c	Je	0r	.
+0F	Je	2B-i\]	.	1c	Je	0r	.
 .	.	4A/	tous	.	.	.	.
 .	.	4G/	.	.	.	.	.
 .	.	1A	choi-	1c	l'a-	.	.
@@ -113,7 +113,7 @@
 1G	.	1B-	-si,	1B-	-voye	0r	.
 1A	l'a-	[1c	sur	[1e-i	sur	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
-0F	-voye	2c\]	.	2e-\]	.	0r	.
+0F	-voye	2c\]	.	2e-i\]	.	0r	.
 .	.	2B-\	.	4d\	tous	.	.
 .	.	.	.	4c\	.	.	.
 .	.	1A	.	1d	choi-	.	.
@@ -411,4 +411,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/06/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/06/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,100Q16
+!!muse2ps: C^@{COA}^i2I150v85,85,85,100Q16
