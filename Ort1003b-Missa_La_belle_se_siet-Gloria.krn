@@ -6,6 +6,7 @@
 !!!AGN:	Mass; Gloria
 !!!SCT:	Ort1003b
 !!!SCA:	Ort1003b
+!!!voices-OPR:	4
 !!!voices:	4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -84,7 +85,7 @@
 =13	=13	=13	=13	=13	=13	=13	=13
 1E-]	.	1B-]	.	1e-]	.	1g]	.
 0G	-mus	1.B-	-mus	1.d	-mus	0b-	-mus
-.	.	4A/	.	2e\	.	.	.
+.	.	4A/	.	2eni\	.	.	.
 .	.	4G/	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
 1D	te.	1F	te.	2f\	te.	1a	te.

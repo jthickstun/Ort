@@ -6,6 +6,7 @@
 !!!AGN:	Mass; Agnus Dei
 !!!SCT:	Ort1003e
 !!!SCA:	Ort1003e
+!!!voices-OPR:	4
 !!!voices:	4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -568,7 +569,7 @@
 2C/	-gnus	.	.	.	.	.	.
 [2F\	De-	.	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78-	=78
-!	!	!	!	!	!	!LO:TX:X=-40:Z=48:t=S sings one c.f. phrase thrice, each time under a different mensuration	!
+!	!	!	!	!	!	!LO:TX:X=-40:Z=48:t=S sings two c.f. phrases thrice, each time under a different mensuration	!
 !	!	!	!	!	!	!LO:TX:X=-40:Z=25:t=sign. The first phrase is sung at successively higher pitch levels,	!
 !	!	!	!	!	!	!LO:TX:X=-40:Z=6:t=the second at successively lower pitch levels.	!
 2F\]	.	1r	.	1r	.	0c]yy	.

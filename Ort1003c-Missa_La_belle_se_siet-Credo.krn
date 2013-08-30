@@ -6,6 +6,7 @@
 !!!AGN:	Mass; Credo
 !!!SCT:	Ort1003c
 !!!SCA:	Ort1003c
+!!!voices-OPR:	4
 !!!voices:	4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -16,6 +17,8 @@
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+!!*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+!!*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!section: Patrem omnipotentem
 !!!OMD: Patrem omnipotentem
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
