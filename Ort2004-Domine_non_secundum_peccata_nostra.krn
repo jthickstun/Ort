@@ -297,7 +297,7 @@
 2E\	2G/	2c\	1g
 1D	1A	1d	.
 .	.	.	2f#i/
-1GG	1G	1d	1g
+1GGl	1Gl	1dl	1gl
 !!LO:LB:g=z
 =41||	=41||	=41||	=41||
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -481,6 +481,7 @@
 =88	=88	=88	=88
 *rscale:2/3	*rscale:2/3	*M3/1	*rscale:2/3
 *	*	*met(3)	*
+!!primary-mensuration: met(3)
 0.D	0.F	0A	0.r
 .	.	1A	.
 *	*	*	*rscale:1
@@ -646,9 +647,11 @@
 .	.	.	2f#i/
 .	.	.	2e/
 =135	=135	=135	=135
-0GG	0G	0d	0g
+0GGl	0Gl	0dl	0gl
 !!LO:LB:g=z
 =136||	=136||	=136||	=136||
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Adiuva nos Deus
 !!!OMD: Adiuva nos Deus
 0G	0B-	0G	1.d
