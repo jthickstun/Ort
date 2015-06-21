@@ -678,7 +678,6 @@
 *met(C3)	*	*met(C3)	*	*met(C3)	*	*met(C3)	*
 !!section: Tu solus dominus
 !!!OMD: Tu solus dominus
-!	!	!	!	!LO:TX:X=-40:Z=8:t=MenC3 in all parts	!	!	!
 !	!	!	!	!	!	!LO:TX:Z=8:t=Canon at the lower fifth (one breve)	!
 1.r	.	0.r	.	2G/	Tu	0.r	.
 .	.	.	.	2B-\	so-	.	.
@@ -827,4 +826,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/11/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/11/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,130Q16
